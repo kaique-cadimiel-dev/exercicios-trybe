@@ -1,2 +1,2 @@
 # exercicios-trybe
-💻 ambiente de exercícios da trybe 
+💻 🚀 Ambiente de exercícios da trybe. 
